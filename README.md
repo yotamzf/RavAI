@@ -1,2 +1,2 @@
 # RavAI
-Fine-tune AI rabbanic models
+Fine-tune AI rabbanic models like Rashi
